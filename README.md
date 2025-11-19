@@ -1,3 +1,10 @@
+
+⏳ Time-Flow-Analysis
+
+A Python-powered Time Series Analysis & Forecasting Repository
+
+📌 About This Repository
+
 Time-Flow-Analysis is dedicated to analyzing and forecasting time-dependent data using Python.
 It showcases practical implementations of:
 
