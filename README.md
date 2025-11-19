@@ -1,4 +1,4 @@
-ChronoAnalytics is dedicated to analyzing and forecasting time-dependent data using Python.
+Time-Flow-Analysis is dedicated to analyzing and forecasting time-dependent data using Python.
 It showcases practical implementations of:
 
 Time Series Decomposition
