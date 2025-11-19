@@ -61,7 +61,7 @@ ChronoAnalytics/
 
 Clone the repo
 
-git clone https://github.com/yourusername/ChronoAnalytics.git
+git clone https://github.com/yourusername/Time-Flow-Analysis.git
 
 
 Install required libraries
